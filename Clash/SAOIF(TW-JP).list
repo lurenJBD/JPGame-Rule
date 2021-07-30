@@ -1,0 +1,18 @@
+
+# SAOIF(TW-JP) rules
+# 内容：刀剑神域IF 刀剑神域AB 日服和台服 分流规则
+# 更新：2021-07-31
+# 数量：9条
+
+#SAO-IF
+DOMAIN,saoif-com.akamaized.net
+DOMAIN,as.saoif.com
+DOMAIN,game101fc.saoif.com
+DOMAIN,auth-fc.saoif.com
+DOMAIN,legal.bandainamcoent.co.jp
+IP-CIDR,13.113.122.221/32
+
+#SAO-AB
+DOMAIN,saoab-assets-ap.akamaized.net
+DOMAIN,api.saoab-ap.wfs.games
+DOMAIN,saoif-com.akamaized.net
