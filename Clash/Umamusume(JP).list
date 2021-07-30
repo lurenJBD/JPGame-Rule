@@ -1,0 +1,13 @@
+# Umamusume(JP) rules
+# 内容：赛马娘 日服分流规则
+# 更新：2021-07-31
+# 数量：8条
+
+DOMAIN,prd-info-umamusume.akamaized.net
+DOMAIN,prd-storage-app-umamusume.akamaized.net
+DOMAIN,prd-storage-game-umamusume.akamaized.net
+DOMAIN,prd-storage-umamusume.akamaized.net
+DOMAIN,omotenashi.cygames.jp
+DOMAIN,api-umamusume.cygames.jp
+DOMAIN,c.go-mpulse.net
+DOMAIN,s.go-mpulse.net
