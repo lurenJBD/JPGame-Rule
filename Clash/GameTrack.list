@@ -1,0 +1,26 @@
+# 用于屏蔽游戏追踪的规则
+
+DOMAIN,biz.live.xunlei.com
+DOMAIN,list.live.xunlei.com
+DOMAIN,soagw.live.xunlei.com
+DOMAIN,biz.live.xunlei.com
+
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,ecommerce.iap.unity3d.com
+
+DOMAIN,cdp.cloud.unity3d.com
+DOMAIN,config.uca.cloud.unity3d.com
+
+DOMAIN,app.adjust.net.in
+DOMAIN,app.adjust.world
+DOMAIN,app.adjust.com
+DOMAIN,easter-analytics.com
+
+DOMAIN,app-measurement.com
+DOMAIN,m.analytics.126.net
+
+DOMAIN,ns.itunes.apple.com
+DOMAIN,appldnld.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,gdmf.apple.com
