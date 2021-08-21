@@ -1,0 +1,8 @@
+# 东方弹幕神乐 rules
+# 内容：东方弹幕神乐 分流规则
+# 更新：2021-08-21
+# 数量：?条
+
+# 东方弹幕神乐
+DOMAIN,assets-danmakujp.cdn-dena.com
+DOMAIN,player-api-production.danmakujp-server.com
