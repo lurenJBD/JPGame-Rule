@@ -1,0 +1,16 @@
+# 偶像荣誉(JP) rules
+# 内容：偶像荣誉(JP) 分流规则
+# 更新：2021-08-21
+# 数量：条
+
+
+# 偶像荣誉(JP)
+DOMAIN,api.game-idolypride.jp
+DOMAIN,api.octo-cloud.com
+DOMAIN,id.qseed.jp
+DOMAIN,d2ilil7yh5oi1v.cloudfront.net
+DOMAIN,stat.game-idolypride.jp
+IP-CIDR,35.221.155.103/32
+IP-CIDR,216.239.34.21/32
+DOMAIN,config.uca.cloud.unity3d.com
+DOMAIN,cdp.cloud.unity3d.com
