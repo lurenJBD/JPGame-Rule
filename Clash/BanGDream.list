@@ -1,0 +1,15 @@
+# BanGDream(JP) rules
+# 内容：BanGDream(JP) 分流规则
+# 更新：2021-08-21
+# 数量：$var条
+
+# BanGDream(JP)
+DOMAIN,api.star.craftegg.jp
+DOMAIN,web.star.craftegg.jp
+DOMAIN,d2ktlshvcuasnf.cloudfront.net
+DOMAIN,api.smbeat.jp
+DOMAIN,ns.exitgames.com
+DOMAIN,chat-asia.exitgames.com
+IP-CIDR,161.202.241.38/32
+IP-CIDR,161.202.79.6/32
+IP-CIDR,161.56.24.202/32
