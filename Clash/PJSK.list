@@ -1,0 +1,18 @@
+# PJSK(JP) rules
+# 内容：初音未来：世界计划多彩舞台 分流规则
+# 更新：2021-08-21
+# 数量：?条
+
+# PJSK(JP) 初音未来：世界计划多彩舞台
+DOMAIN,production-game-api.sekai.colorfulpalette.org
+DOMAIN,production-web.sekai.colorfulpalette.org
+DOMAIN,game-version.sekai.colorfulpalette.org
+DOMAIN,assetbundle.sekai.colorfulpalette.org
+DOMAIN,assetbundle-info.sekai.colorfulpalette.org
+DOMAIN,dd6apz81cp52s.cloudfront.net
+DOMAIN,control.smbeat.jp
+DOMAIN,api.smbeat.jp
+
+IP-CIDR,161.202.142.85/32
+IP-CIDR,161.202.142.73/32
+IP-CIDR,169.56.24.221/32
