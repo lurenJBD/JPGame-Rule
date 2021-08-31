@@ -7,7 +7,8 @@
 DOMAIN,api.star.craftegg.jp
 DOMAIN,web.star.craftegg.jp
 DOMAIN,d2ktlshvcuasnf.cloudfront.net
-DOMAIN,api.smbeat.jp
+
+# UDP 匹配玩家，进入房间，需要通过UDP链接
 DOMAIN,ns.exitgames.com
 DOMAIN,chat-asia.exitgames.com
 IP-CIDR,161.202.241.38/32
