@@ -4,12 +4,12 @@
 # 数量：条
 
 # 通用匹配
-DOMAIN,api.smbeat.jp
-DOMAIN,control.smbeat.jp
 DOMAIN,api.reproio.com
 DOMAIN,d3rsxkd43tbtwl.cloudfront.net
+
 # Love Life(TW)
 DOMAIN,gl-real-prod-8f2jln5l4evlw5l1.api.game25.klabgames.net
+
 # Love Life(JP)
 DOMAIN,jp-real-prod-v4tadlicuqeeumke.api.game25.klabgames.net
 
