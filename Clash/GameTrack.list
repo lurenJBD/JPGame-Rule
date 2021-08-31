@@ -10,8 +10,10 @@ DOMAIN,ecommerce.iap.unity3d.com
 
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,config.uca.cloud.unity3d.com
+DOMAIN,ecommerce.iap.unity3d.com
 
 DOMAIN,app.adjust.net.in
+DOMAIN,app.adjust.net
 DOMAIN,app.adjust.world
 DOMAIN,app.adjust.com
 DOMAIN,easter-analytics.com
@@ -27,3 +29,5 @@ DOMAIN,gdmf.apple.com
 
 DOMAIN,control.smbeat.jp
 DOMAIN,api.smbeat.jp
+DOMAIN,ws.tapjoyads.com
+DOMAIN,connect.tapjoy.com
