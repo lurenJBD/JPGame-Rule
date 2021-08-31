@@ -10,9 +10,11 @@ DOMAIN,game-version.sekai.colorfulpalette.org
 DOMAIN,assetbundle.sekai.colorfulpalette.org
 DOMAIN,assetbundle-info.sekai.colorfulpalette.org
 DOMAIN,dd6apz81cp52s.cloudfront.net
-DOMAIN,control.smbeat.jp
-DOMAIN,api.smbeat.jp
-
-IP-CIDR,161.202.142.85/32
-IP-CIDR,161.202.142.73/32
-IP-CIDR,169.56.24.221/32
+#DOMAIN,control.smbeat.jp
+#DOMAIN,api.smbeat.jp
+DOMAIN-SUFFIX,sekai.colorfulpalette.org
+# UDP 匹配玩家，创建房间会使用udp链接，需要机场线路支持，不然会导致能进游戏，但没法匹配或创建房间 
+DOMAIN-SUFFIX,bc.googleusercontent.com
+#IP-CIDR,161.202.142.85/32
+#IP-CIDR,161.202.142.73/32
+#IP-CIDR,169.56.24.221/32
