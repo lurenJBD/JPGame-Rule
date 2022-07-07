@@ -1,0 +1,33 @@
+payload:
+  - DOMAIN,biz.live.xunlei.com
+  - DOMAIN,list.live.xunlei.com
+  - DOMAIN,soagw.live.xunlei.com
+  - DOMAIN,biz.live.xunlei.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,ecommerce.iap.unity3d.com
+  - DOMAIN,cdp.cloud.unity3d.com
+  - DOMAIN,config.uca.cloud.unity3d.com
+
+
+  - DOMAIN,m.analytics.126.net
+  - DOMAIN,ns.itunes.apple.com
+  - DOMAIN,appldnld.apple.com
+  - DOMAIN,mesu.apple.com
+  - DOMAIN,xp.apple.com
+  - DOMAIN,gdmf.apple.com
+
+  - DOMAIN,log.umsns.com
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,asbpush.com
+  - DOMAIN-SUFFIX,tapjoy.com
+  - DOMAIN-SUFFIX,tapjoyads.com
+  - DOMAIN-SUFFIX,adjust.world
+  - DOMAIN-SUFFIX,adjust.net.in
+  - DOMAIN-SUFFIX,adjust.net
+  - DOMAIN-SUFFIX,adjust.com
+  - DOMAIN-SUFFIX,smbeat.jp 
+  - DOMAIN-SUFFIX,mob.com
+  - DOMAIN-SUFFIX,jpush.cn
+  - DOMAIN-SUFFIX,easter-analytics.com
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,iap.unity3d.com
